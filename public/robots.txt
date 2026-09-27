@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://landing-09-piscinas.vercel.app/sitemap.xml
